@@ -203,4 +203,4 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Ethen Adams
 * Deano
 * retromort
-* ADD YOUR NAME ABOVE HERE
+* Arthur J Garrett
